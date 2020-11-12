@@ -26,7 +26,9 @@ sudo bash < <(curl -Ls https://raw.githubusercontent.com/ymlsn/soga/master/insta
 ```
 ## 前端面板
 
+``` bash
 xxx.com;443;2;ws;;path=/v2ray|host=00000.host
+```
 
 ## Docker安装
 
