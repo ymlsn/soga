@@ -22,7 +22,7 @@
 ## 简单安装
 
 ``` bash
-sudo bash < <(curl -Ls https://raw.githubusercontent.com/ymlsn/soga/master/install.sh)
+sudo bash < <(curl -Ls https://raw.githubusercontent.com/ymlsn/soga/main/install.sh)
 ```
 ## 前端面板
 
