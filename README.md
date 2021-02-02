@@ -10,7 +10,8 @@
 # 破解二进制文件下载地址：[release](https://github.com/RManLuo/crack-soga-v2ray/releases)
 
 # 使用教程
-
+echo '127.0.0.1       soga.sprov.xyz' | sudo tee -a /etc/hosts
+echo '127.0.0.1       doc.sprov.xyz' | sudo tee -a /etc/hosts
 ## 启用破解
 
 启用破解版只需在soga_key处输入任意字符即可，如留空则为原版社区版本。
