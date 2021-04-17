@@ -24,7 +24,7 @@ echo '127.0.0.1       doc.sprov.xyz' | sudo tee -a /etc/hosts
 ## 简单安装
 
 ``` bash
-sudo bash < <(curl -Ls https://raw.githubusercontent.com/ymlsn/soga/main/install.sh)
+sudo bash < <(curl -Ls https://raw.githubusercontent.com/ymlsn/ymlsn-sg/main/install.sh)
 ```
 ## 前端面板
 
